@@ -1,0 +1,6 @@
+﻿Proje Yöneticisi	 :	Salih TUÇ		@salihtuc
+Sistem Analisti 	 :	Ebru ALIÇ		@EbruAlic
+Tasarımcı		 :	Mert SERİN		@mert-serin
+Yazılım Test Uzmanı	 :	Melike BULUT		@MelikeBulut
+Yazılım Geliştirme Uzmanı:	Fatıma Betül TAN	@FatimaBetul
+Yazılım Geliştirme Uzmanı:	Ahmet NAS		@ahmetnas
