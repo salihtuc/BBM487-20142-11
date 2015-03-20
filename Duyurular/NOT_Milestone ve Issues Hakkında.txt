@@ -1,0 +1,26 @@
+﻿Daha önce tanımlanan "YGTB" Milestone'u ve bu milestone altında tanımlanan issue'lar geçersiz sayılmaktadır.
+
+Baz olarak "Teslim 1" adı altında 20.03.2015 tarihinde açılan milestone ve buna bağlı issue'lar göze alınmalıdır.
+
+--------------------------------------------------------------------
+********************************************************************
+--------------------------------------------------------------------
+Milestone: YGTB -------- Geçersiz
+--------------------------------------------------------------------
+********************************************************************
+--------------------------------------------------------------------
+Milestone: Teslim 1 ---- Geçerli/Aktif ----- 20.03.2015-30.03.2015
+	
+	Issues:	- Analiz Belgesinin Hazırlanması
+		- Tasarım Belgesinin Hazırlanması
+		- Kodlamanın Yapılması
+		- Test Aşaması 
+	
+	Sorumlular:
+		- Ebru Alıç, Salih Tuç, diğerleri
+		- Mert Serin, Salih Tuç, diğerleri
+		- Fatıma Betül Tan, Ahmet Nas, diğerleri
+		- Melike Bulut, Salih Tuç, Ebru Alıç, diğerleri
+--------------------------------------------------------------------
+********************************************************************
+--------------------------------------------------------------------
