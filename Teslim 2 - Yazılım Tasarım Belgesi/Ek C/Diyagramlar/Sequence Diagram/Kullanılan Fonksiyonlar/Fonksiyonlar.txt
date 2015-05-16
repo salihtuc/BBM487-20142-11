@@ -1,0 +1,8 @@
+openProgram() 		--> Sistemi açar. Dönüþ olarak giriþ ekraný gelir.
+login()			--> Giriþ Yapma fonksiyonu.
+validate() 		--> Kullanýcý adý ve þifre geçerli mi?
+logout()		--> Çýkýþ Yapma fonksiyonu.
+***ButtonClicked() 	--> *** isimli butona týklama. Menü butonu veya Giriþ Yap butonu.
+
+sifreDegistir(), katalogGoruntule() vb. fonksiyonlar adýndan çok bariz bir þekilde anlaþýlacaðýndan dolayý buraya yazýlmamýþtýr.
+Ýsimlerinin deðiþmesi durumunda belirtilecektir.
