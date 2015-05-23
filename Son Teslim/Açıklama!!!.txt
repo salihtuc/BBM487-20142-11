@@ -1,0 +1,4 @@
+Projede esas olarak fonksiyonlarýn %80'i tam olarak kod þeklinde yer almaktadýr.
+Ancak "*.csv" dosyalarýný okurken NetBeans kaynaklý hata gelmektedir.(Eclipse'de bu sorun yaþanmýyor.)
+Bu sebeple kod fonksiyonlarýnýn çoðu tam olarak çalýþmamaktadýr.
+Fonksiyonlarýn çalýþmamasý sebebiyle önceden belirlenen test case'lerin kontrol edilme durumu ele alýnamamýþtýr.
